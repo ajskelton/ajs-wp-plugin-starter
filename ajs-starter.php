@@ -2,7 +2,7 @@
 /**
  * AJS Starter WordPress Plugin
  *
- * @package     KnowTheCode
+ * @package     AJSkelton
  * @author      ajskelton
  * @license     GPL-2.0+
  *
@@ -17,7 +17,7 @@
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
-namespace KnowTheCode;
+namespace AJSkelton;
 
 if( ! defined( 'ABSPATH' ) ) {
 	exit( 'Cheatin&#8217; uh?' );
